@@ -14,6 +14,11 @@ body {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   }
   
+  .marginEt{
+    margin-left: -10px;
+  }
+
+
   h2 {
     text-align: center;
   }
@@ -40,6 +45,7 @@ body {
     width: 100%;
     padding: 10px;
     background-color: #3498db;
+    margin-top: 15px;
     color: #fff;
     border: none;
     border-radius: 3px;
@@ -48,5 +54,6 @@ body {
   }
   
   button:hover {
-    background-color: #2980b9;
+    background-color: #d4e6f1;
+    color: black;
   }
